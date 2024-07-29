@@ -6,6 +6,7 @@ const SecondPage = () => {
     <div>
       <h1>Second Page</h1>
       <p>This is the second page of the application.</p>
+      <p>Finished</p>
       <Link to="/">
         <button>Go Back to Home</button>
       </Link>
